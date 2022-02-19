@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 **个人博客 [https://glumes.com](https://glumes.com) ，微信公众号：音视频开发进阶，分享更多音视频和图形图像的技术干货内容**。
 
+[一个音视频领域专业问答的小圈子](https://glumes.com/post/anything/av-knowledge-planet/)
+
 ### 联系方式
 
 技术交流，可以加我微信 **ezglumes** ，拉你入技术交流群，和大家探讨更多程序人生。
