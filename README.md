@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-你好，我是 glumes，**多媒体开发工程师，目前就职于抖音，从事音视频 SDK 开发工作**。
+你好，我是 glumes，**多媒体开发工程师，曾就职于抖音，从事音视频 SDK 开发工作**。
 
 熟悉 Android 应用开发、OpenGL、Vulkan 图形图像渲染、FFmpeg 音视频、C++ 等相关开发内容。
 
